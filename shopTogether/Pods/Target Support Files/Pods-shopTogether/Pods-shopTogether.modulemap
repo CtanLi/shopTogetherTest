@@ -1,0 +1,6 @@
+framework module Pods_shopTogether {
+  umbrella header "Pods-shopTogether-umbrella.h"
+
+  export *
+  module * { export * }
+}
